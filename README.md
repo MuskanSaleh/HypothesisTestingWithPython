@@ -1,5 +1,4 @@
-# HypothesisTestingWithPython
-Analysis of TV promotion budgets and their impact on sales, using ANOVA, Tukey’s post hoc tests, and linear regression models in Python.
+
 # Hypothesis Testing on TV Promotion Budgets and Sales
 
 This project performs hypothesis testing and a one-way ANOVA analysis to evaluate the impact of different levels of TV promotion budgets on sales. The analysis uses statistical tests, including Tukey’s HSD post hoc analysis, to explore significant differences in sales based on budget levels.
@@ -31,7 +30,7 @@ This notebook provides an analysis of the effect of varying TV promotion budgets
 6. Results and Interpretations
 7. Conclusion
 8. Technologies Used
-9. Getting Started
+
 
 ## Project Overview
 This analysis aims to test whether different TV promotion budgets significantly affect sales. Using one-way ANOVA and post hoc Tukey’s HSD analysis, it identifies significant pairwise differences between budget levels and evaluates the relationship between promotion budget and sales.
@@ -69,8 +68,3 @@ The analysis concludes that TV promotion budgets significantly impact sales, wit
 - Seaborn
 - Statsmodels
 
-## Getting Started
-To replicate this analysis:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Hypothesis-Testing-TV-Promotion-Sales.git
